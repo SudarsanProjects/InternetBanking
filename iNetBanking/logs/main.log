@@ -1,0 +1,5 @@
+2022-10-30 03:28:43,915 +0530 [main] INFO  (TC_LoginTest_001.java:15) - Url is open
+2022-10-30 03:28:44,199 +0530 [main] INFO  (TC_LoginTest_001.java:19) - entered username
+2022-10-30 03:28:44,561 +0530 [main] INFO  (TC_LoginTest_001.java:21) - entered password
+2022-10-30 03:28:46,836 +0530 [main] INFO  (TC_LoginTest_001.java:23) - clicked on login
+2022-10-30 03:28:46,850 +0530 [main] INFO  (TC_LoginTest_001.java:28) - Login successfully
