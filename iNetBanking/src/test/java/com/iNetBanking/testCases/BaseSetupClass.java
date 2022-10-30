@@ -7,19 +7,22 @@ import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import com.iNetBanking.utilities.ReadConfig;
+
 
 public class BaseSetupClass {
 	
-	public String baseURL="https://demo.guru99.com/v4/";
-	public String userName="mngr451140";
-	public String password="azepYdy";
+	public static ReadConfig readconfig =new ReadConfig();
+	public String baseURL=readconfig.getApplicationUrl();
+	public String userName=readconfig.getUserName();
+	public String password=readconfig.getPassword();
 	public static WebDriver driver;
 	public static Logger logger;
 	
 	@BeforeClass
 	public static void setup()
 	{
-		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\Drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver",readconfig.getChromeDriverPath());
 		driver=new ChromeDriver();
 		
 		 logger= Logger.getLogger("iNetBanking");
