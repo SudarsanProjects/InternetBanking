@@ -1,16 +1,19 @@
 package com.iNetBanking.testCases;
 
-import org.junit.Assert;
-import org.junit.Test;
+
+
+import java.io.IOException;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
 
 import com.iNetBanking.pageObject.LoginPage;
 
 public class TC_LoginTest_001 extends BaseSetupClass{
 	
 	@Test
-	public void loginTest()
+	public void loginTest() throws IOException
 	{
-		driver.get(baseURL);
 		
 		logger.info("Url is open");
 		
@@ -29,6 +32,7 @@ public class TC_LoginTest_001 extends BaseSetupClass{
 	}
 	else
 	{
+		captureScreen(driver,"loginTest");
 		Assert.assertTrue(false);
 		logger.info("Login Failed");
 	}
