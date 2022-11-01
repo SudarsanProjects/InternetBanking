@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.OutputType;
@@ -34,6 +35,7 @@ public class BaseSetupClass {
 		
 		 logger= Logger.getLogger("iNetBanking");
 		PropertyConfigurator.configure("log4j.properties");
+		driver.manage().window().maximize();
 		
 		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 		driver.get(baseURL);
@@ -54,4 +56,14 @@ public class BaseSetupClass {
 		System.out.println("Screenshot taken");
 	}
 
+	public  String randomString()
+	{
+		String randomString=RandomStringUtils.randomAlphabetic(5);
+		return randomString;
+	}
+	public  String randomNumber()
+	{
+		String randomNumber=RandomStringUtils.randomNumeric(5);
+		return randomNumber;
+	}
 }

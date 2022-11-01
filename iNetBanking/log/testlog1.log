@@ -33,3 +33,119 @@
 2022-11-01 01:29:43,221 [main] INFO iNetBanking - entered password
 2022-11-01 01:29:47,663 [main] INFO iNetBanking - clicked on login
 2022-11-01 01:29:47,678 [main] INFO iNetBanking - Login successfully
+2022-11-01 17:39:02,451 [main] INFO iNetBanking - Entered Username
+2022-11-01 17:39:02,781 [main] INFO iNetBanking - Entered Password
+2022-11-01 17:39:10,351 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 17:39:10,355 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 17:39:35,349 [main] INFO iNetBanking - Validation Started
+2022-11-01 17:40:35,042 [main] INFO iNetBanking - Entered Username
+2022-11-01 17:40:35,478 [main] INFO iNetBanking - Entered Password
+2022-11-01 17:40:45,192 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 17:40:45,194 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 17:41:04,252 [main] INFO iNetBanking - Validation Started
+2022-11-01 17:43:56,341 [main] INFO iNetBanking - Entered Username
+2022-11-01 17:43:58,665 [main] INFO iNetBanking - Entered Password
+2022-11-01 17:44:06,259 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 17:44:06,261 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 17:44:25,194 [main] INFO iNetBanking - Validation Started
+2022-11-01 17:46:11,751 [main] INFO iNetBanking - Entered Username
+2022-11-01 17:46:11,951 [main] INFO iNetBanking - Entered Password
+2022-11-01 17:46:18,461 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 17:46:18,462 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 17:46:31,599 [main] INFO iNetBanking - Validation Started
+2022-11-01 17:47:23,163 [main] INFO iNetBanking - Entered Username
+2022-11-01 17:47:24,985 [main] INFO iNetBanking - Entered Password
+2022-11-01 17:47:29,971 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 17:47:29,973 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 17:47:44,577 [main] INFO iNetBanking - Validation Started
+2022-11-01 17:48:38,877 [main] INFO iNetBanking - Entered Username
+2022-11-01 17:48:39,226 [main] INFO iNetBanking - Entered Password
+2022-11-01 17:48:46,652 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 17:48:46,654 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 17:50:54,040 [main] INFO iNetBanking - Entered Username
+2022-11-01 17:50:56,248 [main] INFO iNetBanking - Entered Password
+2022-11-01 17:51:02,213 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 17:51:02,214 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 17:51:13,826 [main] INFO iNetBanking - Validation Started
+2022-11-01 17:54:11,982 [main] INFO iNetBanking - Entered Username
+2022-11-01 17:54:12,592 [main] INFO iNetBanking - Entered Password
+2022-11-01 17:54:20,015 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 17:54:20,016 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 17:54:32,652 [main] INFO iNetBanking - Validation Started
+2022-11-01 17:54:32,782 [main] INFO iNetBanking - New Customer Added Successfully!!
+2022-11-01 17:57:48,576 [main] INFO iNetBanking - Entered Username
+2022-11-01 17:57:50,569 [main] INFO iNetBanking - Entered Password
+2022-11-01 17:57:57,301 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 17:57:57,302 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 17:58:08,887 [main] INFO iNetBanking - Validation Started
+2022-11-01 17:58:12,050 [main] INFO iNetBanking - New Customer Added Successfully!!
+2022-11-01 17:59:41,816 [main] INFO iNetBanking - Entered Username
+2022-11-01 17:59:42,036 [main] INFO iNetBanking - Entered Password
+2022-11-01 17:59:48,510 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 17:59:48,511 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 18:00:01,299 [main] INFO iNetBanking - Validation Started
+2022-11-01 18:00:11,401 [main] INFO iNetBanking - New Customer Added Successfully!!
+2022-11-01 18:45:33,009 [main] INFO iNetBanking - Entered Username
+2022-11-01 18:45:34,771 [main] INFO iNetBanking - Entered Password
+2022-11-01 18:45:41,633 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 18:45:41,634 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 18:45:54,155 [main] INFO iNetBanking - Validation Started
+2022-11-01 18:54:43,725 [main] INFO iNetBanking - Entered Username
+2022-11-01 18:54:44,688 [main] INFO iNetBanking - Entered Password
+2022-11-01 18:54:51,079 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 18:54:51,081 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 18:55:07,969 [main] INFO iNetBanking - Validation Started
+2022-11-01 19:00:33,747 [main] INFO iNetBanking - Entered Username
+2022-11-01 19:00:34,350 [main] INFO iNetBanking - Entered Password
+2022-11-01 19:00:41,267 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 19:00:41,270 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 19:00:53,599 [main] INFO iNetBanking - Validation Started
+2022-11-01 19:01:39,615 [main] INFO iNetBanking - Entered Username
+2022-11-01 19:01:40,386 [main] INFO iNetBanking - Entered Password
+2022-11-01 19:01:48,165 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 19:01:48,166 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 19:02:02,431 [main] INFO iNetBanking - Validation Started
+2022-11-01 19:04:03,695 [main] INFO iNetBanking - Entered Username
+2022-11-01 19:04:04,068 [main] INFO iNetBanking - Entered Password
+2022-11-01 19:04:14,759 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 19:04:14,760 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 19:04:27,814 [main] INFO iNetBanking - Validation Started
+2022-11-01 19:04:37,923 [main] INFO iNetBanking - New Customer Added Successfully!!
+2022-11-01 19:08:03,109 [main] INFO iNetBanking - Entered Username
+2022-11-01 19:08:05,520 [main] INFO iNetBanking - Entered Password
+2022-11-01 19:08:16,905 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 19:08:16,907 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 19:13:52,554 [main] INFO iNetBanking - Entered Username
+2022-11-01 19:13:52,775 [main] INFO iNetBanking - Entered Password
+2022-11-01 19:14:01,752 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 19:14:01,754 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 19:14:20,285 [main] INFO iNetBanking - Validation Started
+2022-11-01 19:14:23,335 [main] INFO iNetBanking - New Customer Added Successfully!!
+2022-11-01 19:14:54,339 [main] INFO iNetBanking - Entered Username
+2022-11-01 19:14:54,564 [main] INFO iNetBanking - Entered Password
+2022-11-01 19:15:01,089 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 19:15:01,091 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 19:15:14,390 [main] INFO iNetBanking - Validation Started
+2022-11-01 19:15:17,422 [main] INFO iNetBanking - New Customer Added Successfully!!
+2022-11-01 19:36:02,608 [main] INFO iNetBanking - Url is open
+2022-11-01 19:36:03,644 [main] INFO iNetBanking - entered username
+2022-11-01 19:36:05,187 [main] INFO iNetBanking - entered password
+2022-11-01 19:36:11,328 [main] INFO iNetBanking - clicked on login
+2022-11-01 19:36:11,375 [main] INFO iNetBanking - Login successfully
+2022-11-01 19:36:22,383 [main] INFO iNetBanking - Entered Username
+2022-11-01 19:36:22,678 [main] INFO iNetBanking - Entered Password
+2022-11-01 19:36:28,359 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 19:36:28,361 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 19:36:43,435 [main] INFO iNetBanking - Validation Started
+2022-11-01 19:36:46,477 [main] INFO iNetBanking - New Customer Added Successfully!!
+2022-11-01 20:02:47,803 [main] INFO iNetBanking - Url is open
+2022-11-01 20:02:52,043 [main] INFO iNetBanking - entered username
+2022-11-01 20:02:52,266 [main] INFO iNetBanking - entered password
+2022-11-01 20:02:56,230 [main] INFO iNetBanking - clicked on login
+2022-11-01 20:02:56,255 [main] INFO iNetBanking - Login successfully
+2022-11-01 20:03:07,242 [main] INFO iNetBanking - Entered Username
+2022-11-01 20:03:07,570 [main] INFO iNetBanking - Entered Password
+2022-11-01 20:03:12,850 [main] INFO iNetBanking - Login Successful!!
+2022-11-01 20:03:12,851 [main] INFO iNetBanking - Providing new Cutromer Details....
+2022-11-01 20:03:39,276 [main] INFO iNetBanking - Validation Started
+2022-11-01 20:03:42,353 [main] INFO iNetBanking - New Customer Added Successfully!!

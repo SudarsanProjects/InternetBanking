@@ -23,7 +23,7 @@ public class TC_LoginDDT_002 extends BaseSetupClass {
 		lp.clickSubmit();
 		logger.info("user clicked on login");
 		Thread.sleep(3000);
-		
+
 		if(isAlertPresent()==true)
 		{
 			driver.switchTo().alert().accept();
@@ -40,9 +40,9 @@ public class TC_LoginDDT_002 extends BaseSetupClass {
 			driver.switchTo().defaultContent();
 			logger.info("Login successful");
 		}
-		
+
 	}
-	
+
 	public boolean isAlertPresent()
 	{
 		try {
@@ -51,30 +51,29 @@ public class TC_LoginDDT_002 extends BaseSetupClass {
 		}
 		catch (NoAlertPresentException e){
 			return false;
-			
+
 		}
-		
+
 	}
-	
-	
+
+
 	@DataProvider(name="LoginData")
 	String [][] getData() throws IOException
 	{
-	
-		String sheetdir=System.getProperty("user.dir")+ "/src/test/java/com/iNetBanking/testData/LoginData.xlsx";
+
+		String sheetdir=System.getProperty("user.dir") +"/src/test/java/com/iNetBanking/testData/LoginData.xlsx";
 		int rowcount=XLUtils.getRowCount(sheetdir, "Sheet1");
 		int colcount=XLUtils.getCellCount(sheetdir, "Sheet1", 1);
 		String logindata[][]=new String[rowcount][colcount];
-		
+
 		for(int i=1;i<=rowcount;i++)
 		{
 			for (int j = 0; j < colcount; j++) {
-				logindata[i-1][j]=XLUtils.getCellData(sheetdir, "Steet1", i, j);
-				
+				logindata[i-1][j]=XLUtils.getCellData(sheetdir,"Steet1", i, j);				
 			}
 		}
 		return logindata;
 	}
-	
+
 }
 
