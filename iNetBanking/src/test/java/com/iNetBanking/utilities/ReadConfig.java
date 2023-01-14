@@ -45,5 +45,15 @@ public class ReadConfig {
 		return chromepath;
 				
 	}
+	public String getFirefoxDriver()
+	{
+		String firefox=pro.getProperty("firefox");
+		return firefox;
+	}
+	public String getBrowser()
+	{
+		String browser=pro.getProperty("browser");
+		return browser;
+	}
 
 }

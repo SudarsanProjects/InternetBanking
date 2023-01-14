@@ -25,7 +25,7 @@ public class TC_LoginTest_001 extends BaseSetupClass{
 		lp.clickSubmit();
 		logger.info("clicked on login");
 		
-	if (driver.getTitle().equals("Guru99 Bank Manager HomePage11"))
+	if (driver.getTitle().equals("Guru99 Bank Manager HomePage"))
 	{
 		Assert.assertTrue(true);
 		logger.info("Login successfully");

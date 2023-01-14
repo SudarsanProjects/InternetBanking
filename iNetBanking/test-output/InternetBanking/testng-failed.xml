@@ -6,13 +6,13 @@
   </listeners>
   <test thread-count="5" name="BankingApp Test(failed)">
     <classes>
-      <class name="com.iNetBanking.testCases.TC_AddCustomer_003">
+      <class name="com.iNetBanking.testCases.TC_LoginTest_001">
         <methods>
-          <include name="addNewCustomer"/>
           <include name="setup"/>
           <include name="tearDown"/>
+          <include name="loginTest"/>
         </methods>
-      </class> <!-- com.iNetBanking.testCases.TC_AddCustomer_003 -->
+      </class> <!-- com.iNetBanking.testCases.TC_LoginTest_001 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [InternetBanking] -->

@@ -3,6 +3,8 @@ package com.iNetBanking.testCases;
 import java.io.IOException;
 
 import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 import com.iNetBanking.pageObject.AddCustomerPage;
@@ -11,6 +13,7 @@ import com.iNetBanking.pageObject.LoginPage;
 public class TC_AddCustomer_003 extends BaseSetupClass {
 	
 	LoginPage lp=new LoginPage(driver);
+	private String custID;
 	
 	@Test
 	public void addNewCustomer() throws InterruptedException, IOException
@@ -58,7 +61,17 @@ public class TC_AddCustomer_003 extends BaseSetupClass {
 			Assert.assertTrue(false);
 		}
 		
+		WebElement custometId= driver.findElement(By.xpath("//table[@id='customer']//tr[4]//td[2]"));
+		String cstID=custometId.getText();
+		
+		System.out.println(cstID);
 	}
+	
+	
+//	public String custID()
+//	{		
+//		return cstID;
+//	}
 	
 	
 	

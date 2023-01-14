@@ -206,3 +206,148 @@
 2022-11-07 04:36:07,743 [main] INFO iNetBanking - entered username
 2022-11-07 04:36:08,184 [main] INFO iNetBanking - entered password
 2022-11-07 04:36:12,204 [main] INFO iNetBanking - clicked on login
+2023-01-11 22:38:21,935 [main] INFO iNetBanking - Entered Username
+2023-01-11 22:38:22,058 [main] INFO iNetBanking - Entered Password
+2023-01-11 22:38:25,486 [main] INFO iNetBanking - Login Successful!!
+2023-01-11 22:38:25,486 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-11 23:01:37,366 [main] INFO iNetBanking - Url is open
+2023-01-11 23:01:37,548 [main] INFO iNetBanking - entered username
+2023-01-11 23:01:37,650 [main] INFO iNetBanking - entered password
+2023-01-11 23:01:38,095 [main] INFO iNetBanking - clicked on login
+2023-01-11 23:05:25,271 [main] INFO iNetBanking - Url is open
+2023-01-11 23:05:25,500 [main] INFO iNetBanking - entered username
+2023-01-11 23:05:25,594 [main] INFO iNetBanking - entered password
+2023-01-11 23:05:26,056 [main] INFO iNetBanking - clicked on login
+2023-01-12 03:58:54,762 [main] INFO iNetBanking - Url is open
+2023-01-12 03:58:54,834 [main] INFO iNetBanking - entered username
+2023-01-12 03:58:54,923 [main] INFO iNetBanking - entered password
+2023-01-12 03:58:56,674 [main] INFO iNetBanking - clicked on login
+2023-01-12 04:00:12,817 [main] INFO iNetBanking - Url is open
+2023-01-12 04:00:12,919 [main] INFO iNetBanking - entered username
+2023-01-12 04:00:13,007 [main] INFO iNetBanking - entered password
+2023-01-12 04:00:14,800 [main] INFO iNetBanking - clicked on login
+2023-01-12 04:00:14,807 [main] INFO iNetBanking - Login successfully
+2023-01-14 22:50:37,868 [main] INFO iNetBanking - user entered username
+2023-01-14 22:50:38,017 [main] INFO iNetBanking - user provide password
+2023-01-14 22:50:41,369 [main] INFO iNetBanking - user clicked on submit
+2023-01-14 22:59:19,511 [main] INFO iNetBanking - user entered username
+2023-01-14 22:59:19,619 [main] INFO iNetBanking - user provide password
+2023-01-14 22:59:42,879 [main] INFO iNetBanking - user clicked on submit
+2023-01-14 23:16:27,297 [main] INFO iNetBanking - user entered username
+2023-01-14 23:16:27,386 [main] INFO iNetBanking - user provide password
+2023-01-14 23:16:29,656 [main] INFO iNetBanking - user clicked on submit
+2023-01-14 23:19:19,007 [main] INFO iNetBanking - Entered Username
+2023-01-14 23:19:19,113 [main] INFO iNetBanking - Entered Password
+2023-01-14 23:19:23,807 [main] INFO iNetBanking - Login Successful!!
+2023-01-14 23:19:23,807 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-14 23:19:34,069 [main] INFO iNetBanking - Validation Started
+2023-01-14 23:19:37,107 [main] INFO iNetBanking - New Customer Added Successfully!!
+2023-01-14 23:21:52,376 [main] INFO iNetBanking - Entered Username
+2023-01-14 23:21:52,475 [main] INFO iNetBanking - Entered Password
+2023-01-14 23:21:57,950 [main] INFO iNetBanking - Login Successful!!
+2023-01-14 23:21:57,954 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-14 23:22:07,600 [main] INFO iNetBanking - Validation Started
+2023-01-14 23:22:10,642 [main] INFO iNetBanking - New Customer Added Successfully!!
+2023-01-14 23:25:11,794 [main] INFO iNetBanking - user entered username
+2023-01-14 23:25:11,892 [main] INFO iNetBanking - user provide password
+2023-01-14 23:25:15,310 [main] INFO iNetBanking - user clicked on submit
+2023-01-14 23:52:16,735 [main] INFO iNetBanking - user entered username
+2023-01-14 23:52:16,837 [main] INFO iNetBanking - user provide password
+2023-01-14 23:52:20,088 [main] INFO iNetBanking - user clicked on submit
+2023-01-14 23:52:23,100 [main] INFO iNetBanking - Login Successful!!
+2023-01-14 23:52:23,101 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 00:14:37,071 [main] INFO iNetBanking - user entered username
+2023-01-15 00:14:37,160 [main] INFO iNetBanking - user provide password
+2023-01-15 00:14:51,395 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 00:14:54,398 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 00:14:54,398 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 00:20:07,564 [main] INFO iNetBanking - user entered username
+2023-01-15 00:20:07,665 [main] INFO iNetBanking - user provide password
+2023-01-15 00:20:10,784 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 00:20:13,795 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 00:20:13,795 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 00:21:18,930 [main] INFO iNetBanking - user entered username
+2023-01-15 00:21:19,024 [main] INFO iNetBanking - user provide password
+2023-01-15 00:21:21,078 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 00:21:24,088 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 00:21:24,088 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 00:22:29,546 [main] INFO iNetBanking - user entered username
+2023-01-15 00:22:29,683 [main] INFO iNetBanking - user provide password
+2023-01-15 00:22:32,899 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 00:22:35,910 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 00:22:35,910 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 00:30:29,300 [main] INFO iNetBanking - user entered username
+2023-01-15 00:30:29,452 [main] INFO iNetBanking - user provide password
+2023-01-15 00:30:31,815 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 00:30:34,827 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 00:30:34,827 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 01:17:41,265 [main] INFO iNetBanking - user entered username
+2023-01-15 01:17:41,382 [main] INFO iNetBanking - user provide password
+2023-01-15 01:17:44,478 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 01:17:47,492 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 01:17:47,493 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 01:18:13,895 [main] INFO iNetBanking - user entered username
+2023-01-15 01:18:14,038 [main] INFO iNetBanking - user provide password
+2023-01-15 01:18:17,335 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 01:18:20,345 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 01:18:20,345 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 01:26:27,658 [main] INFO iNetBanking - user entered username
+2023-01-15 01:26:27,759 [main] INFO iNetBanking - user provide password
+2023-01-15 01:26:30,433 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 01:26:33,446 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 01:26:33,446 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 01:27:22,693 [main] INFO iNetBanking - user entered username
+2023-01-15 01:27:22,842 [main] INFO iNetBanking - user provide password
+2023-01-15 01:27:25,131 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 01:27:28,141 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 01:27:28,141 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 01:33:15,329 [main] INFO iNetBanking - user entered username
+2023-01-15 01:33:15,496 [main] INFO iNetBanking - user provide password
+2023-01-15 01:33:17,362 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 01:33:20,372 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 01:33:20,372 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 01:34:16,334 [main] INFO iNetBanking - user entered username
+2023-01-15 01:34:16,422 [main] INFO iNetBanking - user provide password
+2023-01-15 01:34:40,550 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 01:34:43,560 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 01:34:43,561 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 01:38:10,644 [main] INFO iNetBanking - user entered username
+2023-01-15 01:38:10,840 [main] INFO iNetBanking - user provide password
+2023-01-15 01:38:34,537 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 01:38:37,544 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 01:38:37,544 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 02:42:21,149 [main] INFO iNetBanking - user entered username
+2023-01-15 02:42:21,294 [main] INFO iNetBanking - user provide password
+2023-01-15 02:42:24,511 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 02:42:27,523 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 02:42:27,523 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 02:43:49,898 [main] INFO iNetBanking - user entered username
+2023-01-15 02:43:49,994 [main] INFO iNetBanking - user provide password
+2023-01-15 02:43:51,610 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 02:43:54,622 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 02:43:54,622 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 02:45:16,821 [main] INFO iNetBanking - user entered username
+2023-01-15 02:45:16,964 [main] INFO iNetBanking - user provide password
+2023-01-15 02:45:21,174 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 02:45:24,187 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 02:45:24,187 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 03:01:53,053 [main] INFO iNetBanking - user entered username
+2023-01-15 03:01:53,163 [main] INFO iNetBanking - user provide password
+2023-01-15 03:01:56,396 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 03:01:59,405 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 03:01:59,405 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 03:11:16,863 [main] INFO iNetBanking - user entered username
+2023-01-15 03:11:17,025 [main] INFO iNetBanking - user provide password
+2023-01-15 03:11:20,064 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 03:11:23,081 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 03:11:23,081 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 03:15:10,019 [main] INFO iNetBanking - user entered username
+2023-01-15 03:15:10,210 [main] INFO iNetBanking - user provide password
+2023-01-15 03:15:12,163 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 03:15:15,170 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 03:15:15,170 [main] INFO iNetBanking - Providing new Cutromer Details....
+2023-01-15 04:10:11,431 [main] INFO iNetBanking - user entered username
+2023-01-15 04:10:11,629 [main] INFO iNetBanking - user provide password
+2023-01-15 04:10:14,739 [main] INFO iNetBanking - user clicked on submit
+2023-01-15 04:10:17,743 [main] INFO iNetBanking - Login Successful!!
+2023-01-15 04:10:17,743 [main] INFO iNetBanking - Providing new Cutromer Details....

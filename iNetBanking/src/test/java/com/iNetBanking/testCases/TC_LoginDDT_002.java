@@ -61,17 +61,20 @@ public class TC_LoginDDT_002 extends BaseSetupClass {
 	String [][] getData() throws IOException
 	{
 
-		String sheetdir=System.getProperty("user.dir") +"/src/test/java/com/iNetBanking/testData/LoginData.xlsx";
+		String sheetdir=System.getProperty("/iNetBanking/src/test/java/com/iNetBanking/testData/LoginData.xlsx");
 		int rowcount=XLUtils.getRowCount(sheetdir, "Sheet1");
 		int colcount=XLUtils.getCellCount(sheetdir, "Sheet1", 1);
 		String logindata[][]=new String[rowcount][colcount];
 
 		for(int i=1;i<=rowcount;i++)
 		{
-			for (int j = 0; j < colcount; j++) {
-				logindata[i-1][j]=XLUtils.getCellData(sheetdir,"Steet1", i, j);				
+			for (int k = 0; k < colcount; k++) {
+				logindata[i-1][k]=XLUtils.getCellData(sheetdir,"Steet1", i, k);	
+				System.out.println(i+" "+k);
 			}
+			
 		}
+		
 		return logindata;
 	}
 

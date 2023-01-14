@@ -12,6 +12,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
@@ -30,8 +31,16 @@ public class BaseSetupClass {
 	@BeforeClass
 	public static void setup()
 	{
+		if(readconfig.getBrowser().equals("chrome"))
+		{
 		System.setProperty("webdriver.chrome.driver",readconfig.getChromeDriverPath());
 		driver=new ChromeDriver();
+		}
+		else if(readconfig.getBrowser().equals("firefox"))
+		{
+			System.setProperty("webdriver.gecko.driver", readconfig.getFirefoxDriver());
+			driver=new FirefoxDriver();
+		}
 		
 		 logger= Logger.getLogger("iNetBanking");
 		PropertyConfigurator.configure("log4j.properties");
