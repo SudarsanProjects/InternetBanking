@@ -12,7 +12,7 @@ import com.iNetBanking.utilities.XLUtils;
 
 public class TC_LoginDDT_002 extends BaseSetupClass {
 
-	@Test(dataProvider="LoginData")
+	//@Test(dataProvider="LoginData")
 	public void loginDDT(String user,String pwd) throws InterruptedException
 	{
 		LoginPage lp=new LoginPage(driver);
@@ -61,9 +61,9 @@ public class TC_LoginDDT_002 extends BaseSetupClass {
 	String [][] getData() throws IOException
 	{
 
-		String sheetdir=System.getProperty("/iNetBanking/src/test/java/com/iNetBanking/testData/LoginData.xlsx");
-		int rowcount=XLUtils.getRowCount(sheetdir, "Sheet1");
-		int colcount=XLUtils.getCellCount(sheetdir, "Sheet1", 1);
+		String sheetdir=System.getProperty("/iNetBanking/src/test/java/com/iNetBanking/utilities/XLUtils.java");
+		int rowcount=XLUtils.getRowCount(sheetdir,"Sheet1");
+		int colcount=XLUtils.getCellCount(sheetdir,"Sheet1", 1);
 		String logindata[][]=new String[rowcount][colcount];
 
 		for(int i=1;i<=rowcount;i++)

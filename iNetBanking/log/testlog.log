@@ -351,3 +351,24 @@
 2023-01-15 04:10:14,739 - iNetBanking -INFO - user clicked on submit
 2023-01-15 04:10:17,743 - iNetBanking -INFO - Login Successful!!
 2023-01-15 04:10:17,743 - iNetBanking -INFO - Providing new Cutromer Details....
+2023-02-09 00:40:16,300 - iNetBanking -INFO - Url is open
+2023-02-09 00:40:16,499 - iNetBanking -INFO - entered username
+2023-02-09 00:40:16,590 - iNetBanking -INFO - entered password
+2023-02-09 00:40:16,952 - iNetBanking -INFO - clicked on login
+2023-02-18 03:15:08,914 - iNetBanking -INFO - Url is open
+2023-02-18 03:15:09,008 - iNetBanking -INFO - entered username
+2023-02-18 03:15:09,079 - iNetBanking -INFO - entered password
+2023-02-18 03:15:09,438 - iNetBanking -INFO - clicked on login
+2023-02-18 03:16:24,322 - iNetBanking -INFO - Url is open
+2023-02-18 03:16:24,408 - iNetBanking -INFO - entered username
+2023-02-18 03:16:24,464 - iNetBanking -INFO - entered password
+2023-02-18 03:16:24,817 - iNetBanking -INFO - clicked on login
+2023-02-21 19:14:05,368 - iNetBanking -INFO - Url is open
+2023-02-21 19:14:05,512 - iNetBanking -INFO - entered username
+2023-02-21 19:14:05,599 - iNetBanking -INFO - entered password
+2023-02-21 19:14:06,004 - iNetBanking -INFO - clicked on login
+2023-03-08 03:58:08,160 - iNetBanking -INFO - Url is open
+2023-03-08 03:58:08,374 - iNetBanking -INFO - entered username
+2023-03-08 03:58:08,473 - iNetBanking -INFO - entered password
+2023-03-08 03:58:10,639 - iNetBanking -INFO - clicked on login
+2023-03-08 03:58:10,649 - iNetBanking -INFO - Login successfully
